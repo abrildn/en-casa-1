@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    font-family: montserrat;
+    margin: 0 auto;
+    max-width: 50%;
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
+ul{
+    color: white;
+    list-style: none;
+    text-align: center;
+}
+li{
+    display: inline;
+    text-align: center;
+    margin-right: 100px;
+}
+li:hover{
+    color: yellow
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: yellow;
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(255, 0, 76);
+}
+a:active{
+    color: yellow;
+}
